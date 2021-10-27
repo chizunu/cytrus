@@ -164,21 +164,6 @@ html {
     border-radius: 5px;
 }
 
-.green:hover {
-    color: black;
-    transition: 0.5s;
-    border-style: solid;
-    background: rgb(235, 235, 235);
-    border-width: 2px;
-    border-color: rgb(212, 212, 212);
-    padding-top: 7px;
-    padding-bottom: 7px;
-    padding-left: 13px;
-    padding-right: 13px;
-    border-radius: 5px;
-}
-
-
 .link {
     transition: 0.5s;
     color: rgb(104, 187, 255);;
